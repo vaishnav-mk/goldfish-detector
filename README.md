@@ -1,4 +1,6 @@
 # goldfish-detector
+# Important! (beta-phase)
+# The most recent commit was a huge overhaul and therefore features like camera based feed and potentially others are broken! 
 🐟 The `FishDetector` class is a Python class used to detect fish in video frames. 
 * It can process frames from a webcam or a video file as input, and uses color filtering, morphological transformations, and contour detection to detect the fish in the frames. 
 * It counts the number of fish moving to the right and to the left, and displays the final result on the screen. 
